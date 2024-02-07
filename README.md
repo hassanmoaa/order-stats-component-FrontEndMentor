@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/hassanmoaa/order-stats-component-FrontEndMentor.git)
+- Live Site URL: (https://rainbow-froyo-f8fa2a.netlify.app)
 
 ### Built with
 
